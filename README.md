@@ -1,0 +1,2 @@
+# Crypto-Portfolio-Manager
+Crypto Portfolio Manager is a Python GUI App which was developed with Tkinter. The app can help you manage your own crypto portfolio by adding the purchase price of a coin, the percentage of a coin in your portfolio and how much money you invested. On the other hand, you can delete the coins you sold and cross off the ones you want to sell. Finally, you have the flexibility to save and open your portfolio for later use.
